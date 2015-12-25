@@ -6,7 +6,7 @@
 
 支持设备iPhone4s+  
 
-###### 快速集成，仅需三步：  
+## 快速集成，仅需三步：  
 第一步：
 	
 	导入ChartView文件夹到你的工程
@@ -28,7 +28,7 @@
 	chart.backgroundColor = UIColor.blueColor()
 	chart.显示图表()
 	
-###### 可按照自己需求，修改ChartView.swift中的属性：
+## 可按照自己需求，修改ChartView.swift中的属性：
 
 	var 上下线颜色 = UIColor(white: 1, alpha: 0.5)
     var 线颜色 = UIColor.whiteColor()
@@ -38,5 +38,5 @@
     var 点半径: CGFloat = 4 
     
 ###### 默认效果展示：  
-![效果图1](http://img.blog.csdn.net/20151225213114811)
-![效果图1](http://img.blog.csdn.net/20151225213137640)
+![效果图1](https://raw.githubusercontent.com/472950043/NiceChart/master/效果图-1.png)
+![效果图1](https://raw.githubusercontent.com/472950043/NiceChart/master/效果图-2.png)
