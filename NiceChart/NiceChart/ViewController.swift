@@ -44,7 +44,7 @@ class ViewController: UIViewController {
         } else {
             chart.纵坐标数据 = [80,30,60,78,50,60]
             chart.横坐标数据 = ["11月8","9","10","11","12","今日"]
-            chart.backgroundColor = UIColor.blueColor()
+            chart.backgroundColor = UIColor(red: 0, green: 124.0/255, blue: 207.0/255, alpha: 1)
         }
         chart.显示图表()
     }
